@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jxxx-Vx
+- 👋 Hi, I’m @John Vo!
 - 👀 I’m interested in Computer Science and Software Engineering! I am particularily interested in VR technologies and machine learning.
 - 🌱 I’m currently a 18 year old college student working towardsa Bachelor's in Software Engineering
 - 💞️ I’m looking to collaborate on anything!
